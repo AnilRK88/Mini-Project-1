@@ -1,5 +1,5 @@
 Problem Statement:
-It is tough and time consuming to bend and shape wires manually. We hope to solve the issue by automating the process.
+It is tough and time consuming to bend and shape wires manually. We hope to solve the issue by automating the process using CNC concept.
 
 Objectives: 
 To design the various components used in the machine.
